@@ -8,7 +8,9 @@ Function Multiply($val1, $val2){
     
 }
 
-$data = Add 1 2
+
+$data = Add 2 2 
 Write-Host $data
-$data = Multiply 2 2 
-Write-Host $data
+
+
+

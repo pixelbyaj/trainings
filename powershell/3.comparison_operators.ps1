@@ -1,7 +1,7 @@
 $a = 10
 $b = 20
 
-if($a -gt $b){
+if ($a -gt $b){
     Write-Host $a
 }else{
     Write-Host $b
